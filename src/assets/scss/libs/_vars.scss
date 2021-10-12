@@ -1,0 +1,71 @@
+// Misc.
+$misc: (
+  z-index-base: 10000,
+);
+
+// Duration.
+$duration: (
+  transition: 0.2s,
+);
+
+// Size.
+$size: (
+  border-radius: 8px,
+  border-radius-main: 0.25em,
+  element-height: 2.75em,
+  element-margin: 2em,
+  inner: 70em,
+);
+
+// Font.
+$font: (
+  family: (
+    'IBM Plex Sans',
+    sans-serif,
+  ),
+  family-fixed: (
+    'IBM Plex Sans',
+    sans-serif,
+  ),
+  weight: 400,
+  weight-bold: 400,
+  letter-spacing: 0em,
+);
+
+// Palette.
+$palette: (
+  bg: #000000,
+  fg: rgba(255, 255, 255, 0.65),
+  fg-bold: #ffffff,
+  fg-light: rgba(255, 255, 255, 0.5),
+  border: rgba(255, 255, 255, 0.35),
+  border-bg: rgba(255, 255, 255, 0.075),
+  border2: rgba(255, 255, 255, 0.75),
+  border2-bg: rgba(255, 255, 255, 0.2),
+  midnightGrey: #444444,
+  orange: #f78e1e,
+  blue: #408ebc,
+  burgundy: #ca5b56,
+  lightGrey: rgb(247, 247, 247),
+  invert: (
+    bg: #ffffff,
+    bg-alt: #ffffff,
+    fg: #000000,
+    fg-bold: #000000,
+    fg-light: rgba(99, 99, 99, 0.25),
+    border: #dddddd,
+    border-bg: rgba(222, 222, 222, 0.25),
+    border2: #dddddd,
+    border2-bg: rgba(222, 222, 222, 0.5),
+    orange: #f1a35c,
+    blue: #76cce1,
+  ),
+  accent: #408ebc,
+  accent1: #408ebc,
+  accent2: #c79cc8,
+  accent3: #408ebc,
+  accent4: #9bb2e1,
+  accent5: #408ebc,
+  bg1: #292b37,
+  bg2: #292b37 //0e2c3b,
+);

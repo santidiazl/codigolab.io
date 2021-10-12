@@ -1,0 +1,265 @@
+{
+  "logo": {
+    "developYourFuture": "Develop your future.",
+    "welcome1": "Launch your new career through coding education.",
+    "welcome2": "",
+    "about1": "About Código Lab",
+    "about2": "Developing the next generation",
+    "about3": "of tech talent in Colombia.",
+    "ourProg0": "Learn to Code",
+    "ourProg1": "Full Stack",
+    "ourProg2": "Web Development",
+    "apply1": "Apply to Desarrollo Web"
+  },
+  "covidBanner": "Your safety is our priority. In response to COVID-19, all of our bootcamps will be conducted online until further notice.",
+  "nav": {
+    "home": "HOME",
+    "ourProgram": "BOOTCAMP",
+    "pricing": "PROGRAM COST",
+    "blog": "BLOG",
+    "aboutUs": "ABOUT US",
+    "freeCourse": "FREE COURSE",
+    "apply": "APPLY"
+  },
+  "home": {
+    "title": "BECOME A DEVELOPER",
+    "p1-1": "Código Lab's only goal is to help launch new careers in Web development through our Full Stack web development ",
+    "p1-link": "bootcamp",
+    "p1-2": ".",
+    "p2": "At Código Lab we hope to teach people, regardless of their technical background, in a way that will truly prepare them for future careers in tech",
+    "p3-1": "Not sure if Web development is for you? Register ",
+    "p3-2": " for a FREE 3-hour introductory lecture held by our lead instructor.",
+    "here": "here",
+    "stats": {
+      "rateOfEmployment": {
+        "title": "Rate of employment",
+        "tooltip1": "% of bootcamp graduates that have",
+        "tooltip2": " been employed after completing a bootcamp."
+      },
+      "medianSalaryIncrease": {
+        "title": "Median salary increase",
+        "tooltip1": "Median salary increase ",
+        "tooltip2": "after completing a bootcamp."
+      },
+      "colTechJobs": {
+        "title": "Tech positions open in Colombia",
+        "tooltip1": "Deficit of tech professionals in 2019. ",
+        "tooltip2": "(Based on Fedesoft study)"
+      },
+      "jsDominance": {
+        "title": "JavaScript Dominance",
+        "tooltip": "Most used coding language. (Stack Overflow)"
+      }
+    },
+    "asterix-1": "* Based on 2020 ",
+    "asterix-2": "Course Report study",
+    "asterix-3": " using primarily United States data.",
+    "subscribe": "Subscribe to our newsletter to receive the latest Código Lab news and events."
+  },
+  "ourProgram": {
+    "downloadContent": "Download Course Syllabus >>",
+    "title": "WHAT YOU'LL LEARN",
+    "p1": "Upon completion of our 12-week, full-time bootcamp, you will become a Full Stack JavaScript Web Developer, learning advanced ",
+    "p2": "HTML and CSS concepts, ",
+    "p3": "JavaScript frameworks such as ",
+    "p4": "React and Vue",
+    "p5": ", server development with ",
+    "p6": "Node.js",
+    "p7": ", and how to interface with databases such as ",
+    "p8": "MySQL and MongoDB.",
+    "p9": "",
+    "p10": "",
+    "part1": {
+      "title": "Part I: The Fundamentals",
+      "p1": "Our bootcamp begins with interactive lectures that introduce students to the basics of computer science as well as important JavaScript concepts.",
+      "p2": "Students can expect lectures complete with daily quizzes, weekly tests, homework, and additional readings."
+    },
+    "part2": {
+      "title": "Part II: Project Work",
+      "p1": "This part of the bootcamp gives students the chance to put their new skills to use and create their first projects, both independently and collaboratively.",
+      "p2": "At the end of the project phase, students will be able to showcase their projects online, so that potential employers can see them."
+    },
+    "part3": {
+      "title": "Part III: Career Preparation",
+      "p1": "The final weeks of our bootcamp will focus on building a strong professional tech profile. Students will create powerful technical resumes and job-site profiles and take on a series of mock coding challenges - something that can be expected in a real technical interview.",
+      "p2": "Students will also receive guidance throughout their job search."
+    },
+    "curriculum": {
+      "title": "CURRICULUM",
+      "phase1": {
+        "title": "Phase I - Fundamentals",
+        "week1": {
+          "title": "Week 1",
+          "topic": "Introduction to JavaScript",
+          "b1": "Variables, Operators, Conditionals",
+          "b2": "Objects and Arrays",
+          "b3": "Functions"
+        },
+        "week2": {
+          "title": "Week 2",
+          "topic": "Advanced Functions and Data Structures",
+          "b1": "Higher Order Functions",
+          "b2": "Closures",
+          "b3": "Classes",
+          "b4": "Testing",
+          "b5": "Queues and Stacks",
+          "b6": "Recursion",
+          "b7": "Linked Lists"
+        },
+        "week3": {
+          "title": "Week 3",
+          "topic": "Advanced Data Structures and the DOM",
+          "b1": "Trees",
+          "b2": "Graphs",
+          "b3": "Manipulating the DOM with Plain JS"
+        },
+        "week4": {
+          "title": "Week 4",
+          "topic": "Front End Frameworks",
+          "b1": "Introduction to Frameworks",
+          "b2": "React",
+          "b3": "Vue"
+        },
+        "week5": {
+          "title": "Week 5",
+          "topic": "Servers and Databases",
+          "b1": "Introduction to APIs and HTTP Web Services",
+          "b2": "Introduction to Node and Express",
+          "b3": "Relational and Non-Relational (NoSQL) Databases"
+        }
+      },
+      "phase2": {
+        "title": "Phase II - Projects",
+        "weeks": "Weeks 6 - 10",
+        "topic": "Projects",
+        "b1": "Independent & Collaborative Projects"
+      },
+      "phase3": {
+        "title": "Phase III - Career",
+        "weeks": "Weeks 11 - 12",
+        "topic": "Career Preparation",
+        "b1": "Perfecting your Professional Profile",
+        "b2": "Career Coaching",
+        "b3": "Technical Interview Preparation",
+        "b4": "Coding Challenges"
+      }
+    },
+    "appLink": "https://codigolab.wispform.com/cd976e22"
+  },
+
+  "freeCourse": {
+    "title": "DESARROLLO 101 WEBINAR",
+    "p1": "Not sure yet if coding is for you? You can register for our free, 3-hour webinar to help you decide!",
+    "goal": " Goal of webinar",
+    "goalOne": "Get some hands-on experience writing JavaScript code in a friendly and interactive environment",
+    "goalTwo": "Come out of it having built something cool!",
+    "goalThree": "This workshop is intended for those with little or no experience with JavaScript",
+    "topics": " Topics covered",
+    "topicOne": "How JavaScript is used and why it plays such an important role in today's Web development ecosystem",
+    "topicTwo": "Fundamental concepts of JavaScript including syntax, variables, types, statements, expressions and functions",
+    "topicThree": "How to set up your initial development environment",
+    "p2": "Please complete and submit the following form. We'll be in touch shortly after.",
+    "button": "SIGN UP FOR DESARROLLO 101",
+    "link": "https://acadev.wispform.com/53acfee2"
+  },
+  "paymentOptions": {
+    "title": "TUITION FEE",
+    "costoCOP": "$ 5.000.000 COP *",
+    "costoUSD": "$4000 USD *",
+    "p0": "Includes:",
+    "p1": "Full-time, 12 Week Bootcamp (100% Online)",
+    "p2": "Small Class Sizes and Personalized Mentoring",
+    "p3": "Career Support Throughtout your Job Search",
+    "p4": "Networking on Behalf of Students",
+    "p5-1": "The Código Lab Guarantee: ",
+    "p5-2": "If you do not find a suitable job within 180 days of completing the bootcamp, we'll refund 100% of your paid tuition.",
+    "finePrint": "* Pay in monthly installments. A deposit equal to 10% of tuition cost is required before the bootcamp starts.",
+    "table": {
+      "headers": {
+        "plan": "Option",
+        "cost": "Total investment",
+        "description": "Description"
+      },
+      "optionOne": "Full Tuition",
+      "optionTwo": "Installment plan",
+      "fullPrice": "COP $15.000.000",
+      "discountedPrice": "COP $6.000.000*",
+      "discountedInstalPrice": "COP $7.500.000*",
+      "deposit": "($900.000 deposit)",
+
+      "optionTwoCost": "COP $15.000.000* ($900.000 deposit)",
+      "optionOneDesc": "Save $1.500.000 by paying the full tuition amount upfront. An initial deposit of $900.000 is required to secure your seat in the class, then the remaining amount of your tuition in a lump sum before class starts.",
+      "optionTwoDesc": "Pay your tuition in three easy installments of $2.200.000. An initial deposit of $900.000 is required to secure your seat in the class, then each installment at the beginning of each month."
+    },
+    "asterix1": "* We are curently offering a scholarship worth 50% of tuition for students interested in joining our first class!"
+  },
+
+  "preReqs": {
+    "title": " WHAT ARE THE PREREQUISITES?",
+    "p1": "The most important prerequisites are a passion for learning and the dedication required to complete an intensive training program. Prior coding experience is not needed!",
+    "p2": "You will also need to have ",
+    "p3": "an intermediary English level (at least understand it)",
+    "p4": " and a Macbook or Windows 7 (or higher) laptop."
+  },
+  "applyNow": {
+    "title": "APPLICATION",
+    "h3": " HOW DO I APPLY?",
+    "p1": "To apply, please complete and submit the following form. Don't worry, it's just to help us get to know you better.",
+    "p2": "Once submitted and reviewed by us, we'll be in touch to schedule a Zoom call - we want to meet you! This will also be your opportunity to ask us anything you want about the program.",
+    "p3": "Click below to begin developing your new career.",
+    "button": "APPLY HERE",
+    "link": "https://codigolab.wispform.com/cd976e22"
+  },
+  "aboutUs": {
+    "mission": {
+      "title": "          Our Mission:",
+      "p1": "To unlock the maximum potential of our students and improve their lives through high-quality education."
+    },
+
+    "vision": {
+      "title": "          Our Vision:",
+      "p1": "To contribute to bridging Colombia's tech talent gap in a meaningful way by helping people learn how to code."
+    },
+
+    "ourStory": {
+      "title": "OUR STORY",
+      "p1": "Código Lab was conceived by Daniel Kostiuk, a software engineer with more than 10 years experience in Toronto's tech scene and a graduate of McGill University’s Computer Engineering program. An adventurer at heart, in 2016 Daniel moved to Barcelona after being offered a job as lead instructor at a recently launched bootcamp. It was because of this experience that Daniel developed a true passion for education.",
+      "p2": "During a trip to Colombia and after some additional research,",
+      "link": " Daniel could not help but notice a crucial need for tech talent ",
+      "p2-2": "as a result of the country’s intense digital transformation. He also noticed a lack of accessible options for relevant, high-quality tech education and the lack of diversity in these limited options.",
+      "p3": "In 2018, Daniel met his co-founder Santiago Diaz, in Toronto, Canada. They bonded over their love of Colombia and Daniel suggested the idea of starting a coding bootcamp based on the principle of small class sizes. Santiago was sold, and Código Lab was born.",
+      "p4": "We are firm believers that to teach how to code in a manner that will truly prepare students for future careers in software development, class sizes must be small - a maximum of 8 students per class. This philosophy, although disadvantageous relative to our competitors, is one we are committed to maintaining for the good of our students and their futures."
+    },
+
+    "contactUs": {
+      "title": "CONTACT US",
+      "Questions": "Questions?",
+      "p1": "Send us a message through this form and we'll get back to you as soon as possible.",
+      "email": "E-mail",
+      "phone": "Phone"
+    },
+
+    "form": {
+      "firstName": "First name*",
+      "lastName": "Last name*",
+      "email": "Email address*",
+      "message": "Your message*",
+      "button": "SEND YOUR INQUIRY",
+      "emailSubscribe": "SUBSCRIBE"
+    }
+  },
+  "download": {
+    "form": {
+      "title": "Download your course syllabus",
+      "description": "At Código Lab, we are always improving on our curriculum based on new trends, industry feedback and changes, and feedback from our students and alumni.",
+      "button": "DOWNLOAD COURSE SYLLABUS",
+      "email": "Email address*",
+      "emailLabel": "Email address",
+      "firstnameLabel": "First name",
+      "firstname": "First name*",
+      "lastnameLabel": "Last name",
+      "lastname": "Last name*",
+      "consent": "Subscribe me to Código Lab's newsletter"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "logo": {
+    "developYourFuture": "Desarrolla tu futuro.",
+    "welcome1": "Desarrolla tu nueva carrera",
+    "welcome2": "aprendiendo desarrollo Web.",
+    "about1": "Código Lab",
+    "about2": "Formando la nueva generación",
+    "about3": "de desarrolladores Web en Colombia.",
+    "ourProg0": "Bootcamp de Programación",
+    "ourProg1": "Desarrollo Web",
+    "ourProg2": "Full Stack"
+  },
+  "covidBanner": "Tu seguridad es nuestra prioridad. En respuesta a COVID-19, todos nuestros bootcamps serán dictados online hasta nuevo aviso.",
+  "nav": {
+    "home": "INICIO",
+    "ourProgram": "BOOTCAMP",
+    "pricing": "COSTO",
+    "blog": "BLOG",
+    "aboutUs": "QUIENES SOMOS",
+    "freeCourse": "CURSO GRATUITO",
+    "apply": "INSCRÍBETE"
+  },
+  "home": {
+    "title": "CONVIÉRTETE EN DESARROLLADOR WEB",
+    "p1-1": "El único objetivo de Código Lab es ayudar a iniciar nuevas carreras en desarrollo Web a través de nuestro ",
+    "p1-link": "bootcamp",
+    "p1-2": " de desarrollo Web Full Stack.",
+    "p3-1": "¿No estas seguro si el desarrollo Web es lo tuyo? ",
+    "p3-2": " en nuestro curso gratuito de 3 horas dictado por nuestro instructor principal.",
+    "here": "Inscríbete",
+    "stats": {
+      "rateOfEmployment": {
+        "title": "Tasa de empleo",
+        "tooltip1": "% de egresados que encontraron empleo ",
+        "tooltip2": "después de completar un bootcamp."
+      },
+      "medianSalaryIncrease": {
+        "title": "Aumento promedio salarial",
+        "tooltip1": "El aumento promedio salarial ",
+        "tooltip2": "después de completar un bootcamp."
+      },
+      "colTechJobs": {
+        "title": "Ofertas de empleo TIC en Colombia",
+        "tooltip1": "Déficit de profesionales TIC en el 2020. ",
+        "tooltip2": "(Basado en un estudio de Fedesoft)"
+      },
+      "jsDominance": {
+        "title": "Dominio de JavaScript",
+        "tooltip": "Lenguaje mas usado. (Stack Overflow)"
+      }
+    },
+    "asterix-1": "* Basado en un ",
+    "asterix-2": "estudio hecho en el 2020 de Course Report",
+    "asterix-3": " que utiliza datos principalmente de los Estados Unidos.",
+    "subscribe": "Suscríbete a nuestro newsletter para recibir las últimas noticias y eventos de Código Lab."
+  },
+  "ourProgram": {
+    "downloadContent": "Recibe Tu Plan de Estudio >>",
+    "title": "QUE APRENDERÁS",
+    "p1": "Al finalizar nuestro bootcamp de desarrollo Web de ",
+    "p2": "12 semanas y de tiempo completo",
+    "p3": " te convertirás en un desarrollador Web, estudiando conceptos avanzados de ",
+    "p4": "HTML y CSS, ",
+    "p5": "frameworks de desarrollo Web de JavaScript como ",
+    "p6": "React y Vue, ",
+    "p7": "desarrollo de servidores con ",
+    "p8": "Node.js",
+    "p9": ", y cómo conectarte a bases de datos como ",
+    "p10": "MySQL y MongoDB.",
+    "part1": {
+      "title": "1ª Fase: Los fundamentos",
+
+      "p1": "Nuestro bootcamp comienza con clases interactivas que te introducirán a los conceptos básicos de ingeniería de sistemas así como a los conceptos importantes de programación con JavaScript.",
+      "p2": "Tendras clases con examenes diarios y semanales, tareas, y lecturas adicionales."
+    },
+    "part2": {
+      "title": "2ª Fase: Trabajo de proyectos",
+      "p1": "En esta fase aplicarás lo que estudiaste en la primera fase para desarrollar tus primeros proyectos de software de manera tanto independiente como colaborativa.",
+      "p2": "Al final de la fase de proyectos, podrás subir tus proyectos en GitHub y crear tu portafolio para que lo vean posibles empleadores."
+    },
+    "part3": {
+      "title": "3ª Fase: Preparación de empleo",
+      "p1": "Las últimas semanas de nuestro bootcamp se enfocan en ayudarte a conseguir empleo como desarrollador Web. Te ayudaremos a elaborar hojas de vidas y perfiles digitales sólidos y completarás entrevistas simuladas y retos de programación.",
+      "p2": "También recibirás orientación a lo largo de tu búsqueda de empleo."
+    },
+    "curriculum": {
+      "title": "CURRÍCULO",
+      "phase1": {
+        "title": "1ª Fase - Los fundamentos",
+        "week1": {
+          "title": "Semana 1",
+          "topic": "Introducción al JavaScript",
+          "b1": "Variables, Operadores y Condicionales",
+          "b2": "Objetos y Arrays",
+          "b3": "Funciones"
+        },
+        "week2": {
+          "title": "Semana 2",
+          "topic": "Funciones Avanzadas y Estructuras de Datos",
+          "b1": "Funciones de orden superior",
+          "b2": "Clausuras",
+          "b3": "Clases",
+          "b4": "Testing",
+          "b5": "Colas y Stacks",
+          "b6": "Recursividad",
+          "b7": "Listas enlazadas"
+        },
+        "week3": {
+          "title": "Semana 3",
+          "topic": "Estructuras avanzadas de datos y el DOM",
+          "b1": "Arboles",
+          "b2": "Gráficas",
+          "b3": "Manipulación del DOM con Plain JS"
+        },
+        "week4": {
+          "title": "Semana 4",
+          "topic": "Frameworks Front End",
+          "b1": "Introducción a Frameworks",
+          "b2": "React",
+          "b3": "Vue"
+        },
+        "week5": {
+          "title": "Semana 5",
+          "topic": "Servidores y bases de datos",
+          "b1": "Introducción a los APIs y servicios web HTTP",
+          "b2": "Introducción al Node y Express",
+          "b3": "Bases de datos relacionales y no relacionales (NoSQL)"
+        }
+      },
+      "phase2": {
+        "title": "2ª Fase - Trabajo de proyectos",
+        "weeks": "Semanas 6 - 10",
+        "topic": "Proyectos",
+        "b1": "Proyectos colaborativos e independientes"
+      },
+      "phase3": {
+        "title": "3ª Fase - Preparación de empleo",
+        "weeks": "Semanas 11 - 12",
+        "topic": "Preparación de carrera",
+        "b1": "Perfeccionamiento de tu perfil profesional",
+        "b2": "Orientación profesional",
+        "b3": "Preparación para entrevistas técnicas",
+        "b4": "Retos de programación"
+      }
+    },
+    "appLink": "https://codigolab.wispform.com/2338adca"
+  },
+  "freeCourse": {
+    "title": "WEBINAR: DESARROLLO 101",
+    "goal": " Objetivo del webinar",
+    "goalOne": "Adquiere experiencia práctica escribiendo código en un ambiente amigable e interactivo",
+    "goalTwo": "¡Terminaras el webinar habiendo construido algo chevere!",
+    "goalThree": "Este taller es para aquellos con muy poca o ninguna experiencia en JavaScript",
+    "topics": " Temas incluidos",
+    "topicOne": "El uso de JavaScript y por qué juega tan importante papel en el ecosistema de desarrollo Web actual",
+    "topicTwo": "Conceptos fundamentales del JavaScript incluyendo sintaxis, variables, tipos, instrucciones, expresiones y funciones",
+    "topicThree": "Cómo configurar tu entorno de desarrollo inicial",
+    "p1": "¿No estás seguro si la programación es lo tuyo? ¡Te puedes inscribir en nuestro webinar gratuito de 3 horas para ayudarte a decidir!",
+    "p2": "",
+    "p3": "Por favor completa y envíanos el siguiente formulario. Nosotros nos pondremos en contacto.",
+    "button": "INSCRÍBETE EN DESARROLLO 101",
+    "link": "https://acadev.wispform.com/9487912c"
+  },
+  "paymentOptions": {
+    "title": "VALOR DE MATRÍCULA",
+    "costoCOP": "$ 5.000.000 COP *",
+    "costoUSD": "$4000 USD *",
+    "p0": "Incluye:",
+    "p1": "Bootcamp de Tiempo Completo y de 12 Semanas (100% Virtual)",
+    "p2": "Clases Personalizadas con un Máximo de 8 Estudiantes por Instructor",
+    "p3": "Asistencia en Tus Estudios Cuando la Necesites",
+    "p4": "Servicios de Empleo y Carrera",
+    "p5-1": "La garantía Código Lab: ",
+    "p5-2": "Si no encuentras un empleo adecuado después de 180 días de terminar el bootcamp, te reembolsamos el 100% de la matrícula pagada.",
+    "finePrint": "* Paga en cuotas mensuales de $1.5M. Un depósito igual al 10% del valor de la matrícula es requerido para reservar tu cupo en el bootcamp.",
+    "table": {
+      "headers": {
+        "plan": "Opción",
+        "cost": "Inversión total",
+        "description": "Descripción"
+      },
+      "optionOne": "Matrícula completa",
+      "optionTwo": "Pago por cuotas",
+      "fullPrice": "COP $15.000.000",
+      "discountedPrice": "COP $6.000.000*",
+      "discountedInstalPrice": "COP $7.500.000*",
+
+      "optionTwoCost": "COP $15.000.000*",
+      "optionOneDesc": "Ahorra $1.500.000 pagando el valor completo de matrícula. Un deposito inicial de $900.000 se requiere para asegurar tu cupo en el bootcamp, y luego el monto restante antes de que comience el bootcamp.",
+      "optionTwoDesc": "Paga tu matrícula en tres cuotas de $2.200.000. Un deposito inicial de $900.000 se requiere para asegurar tu cupo en el bootcamp, y después la cuota al principio de cada mes."
+    }
+  },
+
+  "preReqs": {
+    "title": " ¿CUALES SON LOS REQUISITOS?",
+    "p1": "Los requisitos más importantes son tener una pasión por el aprendizaje y la dedicación necesaria para completar un curso de formación intensivo. ¡Ni siquiera es necesario tener experiencia previa alguna en programación!",
+    "p2": "También es necesario tener ",
+    "p3": "un nivel intermedio de inglés (mínimo entenderlo) ",
+    "p4": "y tener un Macbook o un laptop Windows 7 en adelante y una conexión a Internet fiable."
+  },
+  "applyNow": {
+    "title": "INSCRIPCIÓN",
+    "h3": " ¿CÓMO ME INSCRIBO?",
+    "p1": "Para inscribirte en Código Lab deberás completar y enviarnos el siguiente formulario (solo tarda 5 minutos). No te preocupes, es solo para ayudarnos a conocerte mejor.",
+    "p2": "Después de revisar tu formulario te invitaremos a una llamada por Zoom. ¡Queremos conocerte! También será tu oportunidad de preguntarnos lo que quieras sobre el bootcamp.",
+    "p3": "Dale clic al siguiente botón para empezar a desarrollar tu nueva carrera.",
+    "button": "INSCRÍBETE",
+    "link": "https://codigolab.wispform.com/2338adca"
+  },
+  "aboutUs": {
+    "ourStory": {
+      "title": "NUESTRA HISTORIA",
+      "founder": "Conoce nuestro fundador",
+      "p1": "Código Lab fue concebido por Daniel Kostiuk, un ingeniero de software con más de 10 años de experiencia en la industria del software canadiense y un egresado de Ingeniería de Sistemas de la Universidad McGill, basada en Montreal, Canadá. Un aventurero de corazón, Daniel se mudo a Barcelona después de aceptar un cargo como instructor principal de un bootcamp recientemente iniciado. Gracias a esta experiencia, Daniel desarrolló una verdadera pasión por la educación.",
+      "p2": "Durante una visita a Colombia y después de más investigación, ",
+      "link": "Daniel se dio cuenta de la necesidad de desarrolladores Web en Colombia ",
+      "p2-2": "debido a la intensa transformación digital que está viviendo el país. También se dio cuenta de la falta de opciones de formación para desarrolladores Web.",
+      "p3": "En el 2018, Daniel conoció a su cofundador, Santiago Diaz, en Toronto, Canadá. Se entendieron de inmediato por su mutuo amor a Colombia y Daniel le propuso a Santiago su idea de comenzar un bootcamp de desarrollo Web basado en clases de tamaño pequeño. Santiago fue convencido y de ahí nació Código Lab.",
+      "p4": "Nosotros creemos que la mejor manera de preparar a nuestros estudiantes para empleo como desarrolladores Web, es en clases de tamaño pequeño: un máximo de 8 estudiantes por instructor. A pesar de que esta filosofía nos presenta desventajas en comparación a nuestros competidores, por el bien de nuestros estudiantes y sus futuros, estamos comprometidos a ofrecer la mejor experiencia educativa."
+    },
+
+    "mission": {
+      "title": "          Nuestra Misión:",
+      "p1": "Permitir que nuestros estudiantes alcancen su mejor potencial y mejoren sus vidas a través de una educación de alta calidad."
+    },
+
+    "vision": {
+      "title": "          Nuestra Visión:",
+      "p1": "Contribuir a reducir la brecha de desarrolladores Web en Colombia ayudando a todos aquellos que quieran aprender a programar."
+    },
+
+    "contactUs": {
+      "title": "CONTÁCTANOS",
+      "Questions": "¿Tienes preguntas?",
+      "p1": "Envíanos un mensaje a través de este formulario y te responderemos lo más antes posible.",
+      "email": "Correo electrónico",
+      "phone": "Teléfono"
+    },
+
+    "form": {
+      "firstName": "Nombre*",
+      "lastName": "Apellido*",
+      "email": "Correo electrónico*",
+      "message": "Tu mensaje*",
+      "button": "ENVIAR SOLICITUD",
+      "emailSubscribe": "SUSCRÍBETE"
+    }
+  },
+  "download": {
+    "form": {
+      "title": "Descarga tu plan de estudio",
+      "description": "Nosotros siempre estamos mejorando nuestro currículo basado en las tendencias cambiantes, las necesidades de la industria, y los comentarios de estudiantes y alumnos.",
+      "button": "RECIBIR PLAN DE ESTUDIO",
+      "email": "Correo electrónico*",
+      "emailLabel": "Correo electrónico",
+      "firstnameLabel": "Nombre",
+      "firstname": "Nombre*",
+      "lastnameLabel": "Apellido",
+      "lastname": "Apellido*",
+      "consent": "Suscribirme al newsletter de Código Lab"
+    }
+  }
+}

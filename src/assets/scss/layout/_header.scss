@@ -1,0 +1,70 @@
+///
+/// Stellar by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Header */
+
+#header {
+  .title {
+    //background: rgba(black, 0.7);
+    position: relative;
+
+    @keyframes blink {
+      from,
+      to {
+        color: transparent;
+      }
+      50% {
+        color: white;
+      }
+    }
+    @-moz-keyframes blink {
+      from,
+      to {
+        color: transparent;
+      }
+      50% {
+        color: white;
+      }
+    }
+    @-webkit-keyframes blink {
+      from,
+      to {
+        color: transparent;
+      }
+      50% {
+        color: white;
+      }
+    }
+    @-ms-keyframes blink {
+      from,
+      to {
+        color: transparent;
+      }
+      50% {
+        color: white;
+      }
+    }
+    @-o-keyframes blink {
+      from,
+      to {
+        color: transparent;
+      }
+      50% {
+        color: white;
+      }
+    }
+    .blinking-cursor {
+      font-weight: 100;
+      font-size: 48px;
+      color: #2e3d48;
+      -webkit-animation: 1s blink step-end infinite;
+      -moz-animation: 1s blink step-end infinite;
+      -ms-animation: 1s blink step-end infinite;
+      -o-animation: 1s blink step-end infinite;
+      animation: 1s blink step-end infinite;
+    }
+  }
+}

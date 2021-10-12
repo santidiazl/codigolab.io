@@ -1,0 +1,39 @@
+///
+/// Stellar by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* About */
+
+	.about {
+		@include vendor('display', 'flex');
+		@include vendor('align-items', 'center');
+		margin: 0 0 _size(element-margin) 0;
+
+		.content {
+			@include vendor('flex', '1');
+
+			> :last-child {
+				margin-bottom: 0;
+			}
+
+			header {
+				&.major {
+					margin: 0 0 _size(element-margin) 0;
+				}
+			}
+		}
+
+		.image {
+			display: inline-block;
+			margin-left: 4em;
+			padding: 0.65em;
+
+			img {
+				display: block;
+				width: 16em;
+			}
+		}
+
+	}

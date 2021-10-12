@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 633.55 127.51">
+  <g>
+    <g>
+      <path d="M533.28,791.33a3.48,3.48,0,0,1-2.06-.66,3.54,3.54,0,0,1-.83-4.95L554,752.6V735.68a10.07,10.07,0,0,1,1.87-20H583.3a10.07,10.07,0,0,1,1.53,20V752.6l23.62,33.12a3.55,3.55,0,1,1-5.78,4.12l-24.94-35V728.76h5.57a3,3,0,1,0,0-5.94H555.89a3,3,0,0,0,0,5.94h5.22v26.11l-24.94,35A3.53,3.53,0,0,1,533.28,791.33Z" transform="translate(-183.69 -715.72)" style="fill: #292b37"/>
+      <path d="M578.88,812.13a3.54,3.54,0,0,1-2.84-5.67l11.91-16L576.3,773.28a3.55,3.55,0,0,1,5.88-4l13.07,19.31a3.56,3.56,0,0,1-.1,4.11l-13.42,18A3.56,3.56,0,0,1,578.88,812.13Z" transform="translate(-183.69 -715.72)" style="fill: #ca5b56"/>
+      <path d="M559.9,812.13a3.56,3.56,0,0,1-2.85-1.42l-13.42-18a3.55,3.55,0,0,1-.1-4.11L556.6,769.3a3.55,3.55,0,1,1,5.88,4l-11.66,17.21,11.92,16a3.54,3.54,0,0,1-2.84,5.67Z" transform="translate(-183.69 -715.72)" style="fill: #ca5b56"/>
+      <circle cx="375.35" cy="74.67" r="3.42" style="fill: #292b37"/>
+      <circle cx="385.96" cy="74.67" r="3.42" style="fill: #292b37"/>
+      <circle cx="396.11" cy="74.67" r="3.42" style="fill: #292b37"/>
+    </g>
+    <text transform="translate(0 96.41)" style="font-size: 100.98211669921875px;fill: #292b37;font-family: NexaBold, Nexa Bold;letter-spacing: 0.02099497670280467em">C<tspan x="68.77" y="0" xml:space="preserve" style="letter-spacing: -0.00000967064795154522em">ódigo      </tspan><tspan x="448.66" y="0" style="letter-spacing: 0.019989229315843966em">L</tspan><tspan x="509.75" y="0" style="letter-spacing: -0.00998977933394621em">a</tspan><tspan x="570.44" y="0" style="letter-spacing: -0.00000967064795154522em">b</tspan></text>
+  </g>
+</svg>
