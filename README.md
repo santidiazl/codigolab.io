@@ -1,4 +1,4 @@
-# Código Lab - Website
+# codigolab.io
 
 This repo contains the codebase for everything related to Código Lab's webpage.
 
